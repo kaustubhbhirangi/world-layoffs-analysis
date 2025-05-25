@@ -55,8 +55,8 @@ An interactive Power BI dashboard was built to complement the SQL analysis. It i
 - Startups often laid off 100% of their workforce, indicating business shutdowns
 - Layoffs peaked in 2020, especially during Covid virus spread & lockdown
 - The U.S. led in total layoffs, with some cities being more affected than others
+  
 📄 [Click here to see full project insights summary](output/insights_summary.md)
-
 
 ---
 ## 📬 Contact
