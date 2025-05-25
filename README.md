@@ -44,8 +44,8 @@ An interactive Power BI dashboard was built to complement the SQL analysis. It i
 - Geographic heatmaps showing layoff locations
 - Filters to explore data by year, location, and industry
 
-📎 [Click here to see dashboard preview](dashboard/dashboard_preview.pdf)
-📎 [Click here to open dashboard (Power BI) ](dashboard/World_layoffs_dashboard.pbix)
+📎 [Click here to see dashboard preview](dashboard/dashboard_preview.png)
+📎 [Dashboard made with Power BI located here](dashboard)
 
 ---
 
