@@ -44,7 +44,8 @@ An interactive Power BI dashboard was built to complement the SQL analysis. It i
 - Geographic heatmaps showing layoff locations
 - Filters to explore data by year, location, and industry
 
-📎 [Link to Power BI Dashboard] (Add the link or embed image/gif)
+📎 [Click here to see dashboard preview](dashboard/dashboard_preview.pdf)
+📎 [Click here to open dashboard (Power BI) ](dashboard/World_layoffs_dashboard.pbix)
 
 ---
 
@@ -52,8 +53,10 @@ An interactive Power BI dashboard was built to complement the SQL analysis. It i
 
 - A few major tech companies account for a significant portion of total layoffs
 - Startups often laid off 100% of their workforce, indicating business shutdowns
-- Layoffs peaked in specific years, especially during economic downturns
+- Layoffs peaked in 2020, especially during Covid virus spread & lockdown
 - The U.S. led in total layoffs, with some cities being more affected than others
+- Full project insights available in (output/insights_summary.md)
+
 
 ---
 ## 📬 Contact
