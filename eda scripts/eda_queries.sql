@@ -3,15 +3,17 @@ select * from layoffs_staging_2;
 
 -- 1) Top 5 company with max lay offs
 SELECT company, 
-		total_laid_off
+total_laid_off
 FROM layoffs_staging
 ORDER BY 2 DESC
 LIMIT 5;
 
 
 -- 2) Max & Min % of lay-offs
-SELECT MAX(percentage_laid_off),  MIN(percentage_laid_off)
-FROM layoffs_staging_2
+SELECT CONCAT(ROUND(MAX(percentage_laid_off) * 100, 2), '%') AS max_percentage_laid_off,
+CONCAT(ROUND(MIN(percentage_laid_off) * 100, 2), '%') AS min_percentage_laid_off
+FROM 
+layoffs_staging_2
 WHERE  percentage_laid_off IS NOT NULL;
 
 
