@@ -1,4 +1,4 @@
-﻿# 📊 World Layoff Trends Analysis (SQL + Power BI)
+﻿# 🗺️ World Layoff Trends Analysis (SQL + Power BI)
 
 This project analyzes global tech layoffs using structured SQL queries and visualizes the insights using Power BI. The dataset includes information on companies, locations, dates, and the number of employees laid off. The goal is to uncover key patterns and trends in workforce reductions over time.
 
