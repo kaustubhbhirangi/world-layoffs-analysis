@@ -45,7 +45,7 @@ An interactive Power BI dashboard was built to complement the SQL analysis. It i
 - Filters to explore data by year, location, and industry
 
 📎 [Click here to see dashboard preview](dashboard/dashboard_preview.png)
-📎 [Dashboard made with Power BI located here](dashboard)
+📎 [Dashboard pbix file located here](dashboard)
 
 ---
 
