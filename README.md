@@ -1,4 +1,4 @@
-# 📊 World Layoff Trends Analysis (SQL + Power BI)
+﻿# 📊 World Layoff Trends Analysis (SQL + Power BI)
 
 This project analyzes global tech layoffs using structured SQL queries and visualizes the insights using Power BI. The dataset includes information on companies, locations, dates, and the number of employees laid off. The goal is to uncover key patterns and trends in workforce reductions over time.
 
@@ -44,8 +44,8 @@ An interactive Power BI dashboard was built to complement the SQL analysis. It i
 - Geographic heatmaps showing layoff locations
 - Filters to explore data by year, location, and industry
 
--📎 [Click here to see dashboard preview](dashboard/dashboard_preview.pdf)
--📎 [Click here to open dashboard (Power BI) ](dashboard/World_layoffs_dashboard.pbix)
+📎 [Click here to see dashboard preview](dashboard/dashboard_preview.pdf)
+📎 [Click here to open dashboard (Power BI) ](dashboard/World_layoffs_dashboard.pbix)
 
 ---
 
@@ -55,8 +55,7 @@ An interactive Power BI dashboard was built to complement the SQL analysis. It i
 - Startups often laid off 100% of their workforce, indicating business shutdowns
 - Layoffs peaked in 2020, especially during Covid virus spread & lockdown
 - The U.S. led in total layoffs, with some cities being more affected than others
-- 📎 [Full project insights summary available here](output/insights_summary.pbix)
-
+- Full project insights available in (output/insights_summary.md)
 
 
 ---
